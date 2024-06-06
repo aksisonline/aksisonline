@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student speciali
 - 🎓 I'm currently a 4th-year B.Tech CSE student at GITAM University, Vizag.
 - 🌱 I’m currently learning Next.js, TensorFlow, and various productivity tools.
 - 💼 I'm the Advisor of Creative Design at Entrepreneurs Club, GITAM.
-- 👨‍💻 In my free time, I'm either developing or learning about web development, automation scripting, or just pranking people with code 🤣.
+- 👨‍💻 In my free time, I'm either making useful apps or learning about design, video, web development, automation scripting, or just pranking people with code 🤣.
 - 💬 Ask me about Python, Discord bots, Video Editing, and for creative ideas!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhiramkanna) | [Email](mailto:abhiramkanna@outlook.com)
 - ⚡ Fun fact: I love creating designs and video content, and I'm a big fan of open-source projects 😉.
