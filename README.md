@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Abhiram Kanna 👋
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning. I love working on diverse projects that challenge my skills and push the boundaries of what's possible with technology.
@@ -40,6 +38,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student speciali
 - [LinkedIn](https://www.linkedin.com/in/abhiramkanna)
 - [Youtube](https://youtube.com/aksisonline)
 - [Instagram](https://instagram.com/aksisonline)
+- [Surprise](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech and innovation.
 
