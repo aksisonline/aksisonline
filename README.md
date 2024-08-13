@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student speciali
 - **Ticket Management System**: Successfully deployed at university events for efficient ticket handling.
 - **Semantic Search Engine**: Building using Qdrant as a vector database for semantic search capabilities.
 - **BMI Calculator**: A Streamlit application with Firebase login integration for user authentication.
-- **Ganesh Alla's Website**: Built Ganesh Alla's portfolio website from a next.js template, thanks to Dedeard 🫰 Check him out @ [Github](https://github.com/dedeard)
+- **Ganesh Alla's Website**: Built Ganesh Alla's portfolio website from a next.js template, thanks to Dedeard 🫰 Check him out @ [Github - Dedeard](https://github.com/dedeard)
 
 ## 📈 GitHub Stats
 ![Abhiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksisonline&show_icons=true&theme=radical)
