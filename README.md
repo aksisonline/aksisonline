@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a 4th-year B.Tech CSE student at GITAM, specia
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, JavaScript, Java
-- **Web Dev**: Next.js, Node.js, HTML, CSS
+- **Web Dev**: React, Node.js, HTML, CSS, TailwindCSS
 - **ML & AI**: TensorFlow, scikit-learn
 - **Databases**: PostgreSQL, MongoDB
 - **Design & Video**: Da Vinci Resolve, Adobe Photoshop
