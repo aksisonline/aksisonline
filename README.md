@@ -9,11 +9,10 @@ Welcome to my GitHub profile! I'm a 4th-year B.Tech CSE student at GITAM, specia
 - ⚡ Fun fact: I enjoy creating open-source projects, pranking people with code, and collaborating on cool ideas!
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, Java
-- **Web Dev**: React, Node.js, HTML, CSS, TailwindCSS
-- **ML & AI**: TensorFlow, scikit-learn
+- **Languages**: C, Python, JavaScript, Java
+- **Web Dev**: Next.Js, React, Node.js, HTML, CSS, TailwindCSS
 - **Databases**: PostgreSQL, MongoDB
-- **Design & Video**: Da Vinci Resolve, Adobe Photoshop
+- **Design & Video**: Da Vinci Resolve, Adobe Suite, Affinity Suite
 
 ## 🌟 Featured Projects
 - **Kira Bot**: A Node.js Discord bot with keyword-based replies and server management features.
