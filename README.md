@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a 4th-year B.Tech CSE student at GITAM, specia
 
 ## 🚀 About Me
 - 💼 Advisor of Creative Design at Entrepreneurs Club, GITAM.
-- 👨‍💻 Always learning—currently focused on Next.js, TensorFlow, and productivity tools.
-- 🎨 Passionate about design, video editing, and automation scripting.
+- 👨‍💻 Always learning—currently focused on Next.js, LLMs, and productivity tools.
+- 🎨 Passionate about design, film, and music.
 - ⚡ Fun fact: I enjoy creating open-source projects, pranking people with code, and collaborating on cool ideas!
 
 ## 🛠️ Tech Stack
