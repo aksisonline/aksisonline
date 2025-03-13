@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a 4th-year B.Tech CSE student at GITAM, specia
 - **Design & Video**: Da Vinci Resolve, Adobe Suite, Affinity Suite
 
 ## 🌟 Featured Projects
+- **Active Chat**: A secure realtime chat service with no chat history stored on the backend. Just pure data transfer! (currently offline)
 - **Kira Bot**: A Node.js Discord bot with keyword-based replies and server management features.
 - **Ticket Management System**: Deployed at major university events for seamless ticket handling.
 - **Semantic Search Engine**: Powered by Qdrant for advanced search capabilities.
