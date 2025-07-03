@@ -9,8 +9,8 @@
 
 # 👋 Hi, I’m Abhiram Kanna (`aksisonline`)
 
-**4th‑year B.Tech CSE @ GITAM** specializing in AI & Machine Learning  
-**COO @ Verbrate Creative Studios** • Always building creative projects & experimenting with code  
+**Fresh out - B.Tech CSE @ GITAM** specializing in AI & Machine Learning  
+**Developer @ Verbrate Creative Studios** • Helping clientele building their products into reality
 
 ---
 
