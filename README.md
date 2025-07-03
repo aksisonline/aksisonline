@@ -57,13 +57,6 @@
 
 ---
 
-Made with ❤️ using:  
-- **Pac‑Man Contribution Graph** (a lively twist on your commit heatmap) :contentReference[oaicite:1]{index=1}  
-- **Shields.io badges** for clickable profile links :contentReference[oaicite:2]{index=2}  
-- **GitHub‑Readme‑Stats & Streak Stats** for live coding insights :contentReference[oaicite:3]{index=3}
-
----
-
 ⭐ If you like what you see, feel free to follow and connect with me!
 
 ---
