@@ -18,7 +18,7 @@
 
 **Languages:** C · Python · JavaScript · Java  
 **Web:** Next.js · React · Node.js · HTML · CSS · TailwindCSS  
-**DBs:** PostgreSQL · MongoDB  
+**DBs:** PostgreSQL · MongoDB · Firebase · Supabase  
 **Design/Video:** DaVinci Resolve · Adobe Suite · Affinity Suite  
 
 ---
