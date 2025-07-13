@@ -42,9 +42,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Active Chat** | Secure realtime chat with zero-backend storage (P2P/data‑stream only) | JS/Node |
-| **Kira Bot** | Discord bot for server management & keyword replies | Node.js |
-| **Ticket Mgmt** | Deployed at uni events for seamless ticket handling | Full‑stack |
+| **Active Chat** | Secure realtime chat with zero-backend storage (P2P/data‑stream only) | Next.JS |
+| **Kira Bot** | Discord bot for server management & keyword replies | Bun.js |
+| **Ticket Mgmt** | Deployed at uni events for seamless ticket handling | React/Node.js |
 | **Semantic Search** | Qdrant‑powered search engine for deep semantic matching | Python/ML |
 
 ---
