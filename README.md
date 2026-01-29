@@ -10,7 +10,7 @@
 # 👋 Hi, I’m Abhiram Kanna (`aksisonline`)
 
 **Fresh out - B.Tech CSE @ GITAM** specializing in AI & Machine Learning  
-**Developer @ Verbrate Creative Studios** • Helping clientele building their products into reality
+**Founding Software Engineer @ Edirq** • If you're wondering why my git history is soo empty, this is why (@abhiramkanna-edirq)!
 
 ---
 
