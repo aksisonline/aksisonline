@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/surface.svg?title=Abhiram+Kanna&subtitle=Founding+Software+Engineer+%40+Edirq&logo=github&theme=green&mode=dark" />
-    <img alt="Abhiram Kanna" src="https://shieldcn.dev/header/surface.svg?title=Abhiram+Kanna&subtitle=Founding+Software+Engineer+%40+Edirq&logo=github&theme=green&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/surface.svg?title=Abhiram+Kanna&subtitle=Founding+Software+Engineer+%40+Edirq&logo=github&theme=zinc&mode=dark" />
+    <img alt="Abhiram Kanna" src="https://shieldcn.dev/header/surface.svg?title=Abhiram+Kanna&subtitle=Founding+Software+Engineer+%40+Edirq&logo=github&theme=zinc&mode=light" />
   </picture>
 </p>
 
@@ -33,9 +33,9 @@
 ## Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhiramkanna"><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn-Connect-2ea44f.svg?logo=linkedin&variant=secondary&logoColor=ffffff" /></a>
-  <a href="https://youtube.com/@aksisonline"><img alt="YouTube" src="https://shieldcn.dev/badge/YouTube-Subscribe-2ea44f.svg?logo=youtube&variant=secondary&logoColor=ffffff" /></a>
-  <a href="https://instagram.com/aksisonline"><img alt="Instagram" src="https://shieldcn.dev/badge/Instagram-Follow-2ea44f.svg?logo=instagram&variant=secondary&logoColor=ffffff" /></a>
+  <a href="https://www.linkedin.com/in/abhiramkanna"><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn-Connect-000000.svg?logo=linkedin&variant=secondary&logoColor=ffffff" /></a>
+  <a href="https://youtube.com/@aksisonline"><img alt="YouTube" src="https://shieldcn.dev/badge/YouTube-Subscribe-000000.svg?logo=youtube&variant=secondary&logoColor=ffffff" /></a>
+  <a href="https://instagram.com/aksisonline"><img alt="Instagram" src="https://shieldcn.dev/badge/Instagram-Follow-000000.svg?logo=instagram&variant=secondary&logoColor=ffffff" /></a>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## Activity
 
 <p align="center">
-  <img alt="Lifetime commits" src="https://shieldcn.dev/chart/github/commits/aksisonline.svg?theme=green&bg=transparent&border=false" />
+  <img alt="Lifetime commits" src="https://shieldcn.dev/chart/github/commits/aksisonline.svg?theme=zinc&bg=transparent&border=false" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Switch git identity and GitHub account in one command — no more commits under 
 </p>
 
 <p align="center">
-  <a href="https://gitswitch.dev"><img alt="Visit gitswitch.dev" src="https://shieldcn.dev/badge/gitswitch.dev-Visit_Site-2ea44f.svg?variant=secondary&logo=git&logoColor=ffffff" /></a>
+  <a href="https://gitswitch.dev"><img alt="Visit gitswitch.dev" src="https://shieldcn.dev/badge/gitswitch.dev-Visit_Site-000000.svg?variant=secondary&logo=git&logoColor=ffffff" /></a>
 </p>
 
 | Project | Description | Tech |
