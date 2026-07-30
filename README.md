@@ -62,8 +62,6 @@ Switch git identity and GitHub account in one command — no more commits under 
   </tr>
 </table>
 
-<a href="https://gitswitch.dev"><img alt="Visit gitswitch.dev" src="https://shieldcn.dev/badge/gitswitch.dev-Visit_Site-000000.svg?variant=secondary&logo=git&logoColor=ffffff" /></a>
-
 | Project | Description | Tech |
 |---|---|---|
 | Active Chat | Secure realtime chat with zero-backend storage (P2P/data-stream only) | Next.js |
