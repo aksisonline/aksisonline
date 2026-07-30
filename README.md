@@ -52,7 +52,7 @@
 
 ### [gitswitch.dev](https://gitswitch.dev) — flagship project
 
-Switch git identity and GitHub account in one command — no more commits under the wrong name or pushes to the wrong remote.
+No more committing with the wrong account. Work with multiple GitHub accounts at the same time, in parallel. For both devs and agents.
 
 <table align="center">
   <tr>
