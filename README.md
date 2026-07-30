@@ -54,13 +54,15 @@
 
 Switch git identity and GitHub account in one command — no more commits under the wrong name or pushes to the wrong remote.
 
-<p align="center">
-  <a href="https://gitswitch.dev"><img alt="gitswitch — git identity manager, done right" src="https://gitswitch.dev/og-image.png" width="600" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://gitswitch.dev"><img alt="gitswitch — git identity manager, done right" src="https://gitswitch.dev/og-image.png" width="600" /></a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://gitswitch.dev"><img alt="Visit gitswitch.dev" src="https://shieldcn.dev/badge/gitswitch.dev-Visit_Site-000000.svg?variant=secondary&logo=git&logoColor=ffffff" /></a>
-</p>
+<a href="https://gitswitch.dev"><img alt="Visit gitswitch.dev" src="https://shieldcn.dev/badge/gitswitch.dev-Visit_Site-000000.svg?variant=secondary&logo=git&logoColor=ffffff" /></a>
 
 | Project | Description | Tech |
 |---|---|---|
