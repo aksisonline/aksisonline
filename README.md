@@ -15,7 +15,7 @@
 ---
 
 **Fresh out - B.Tech CSE @ GITAM** specializing in AI & Machine Learning<br />
-**Founding Software Engineer @ Edirq** — if you're wondering why my git history is so empty, this is why ([@abhiramkanna-edirq](https://github.com/abhiramkanna-edirq))!
+**Ex-Founding Software Engineer @ Edirq** — if you're wondering why my part of my git history is so empty, this is why ([@abhiramkanna-edirq](https://github.com/abhiramkanna-edirq))!
 
 ---
 
@@ -23,9 +23,9 @@
 
 | Category | Stack |
 |---|---|
-| Languages | C · Python · JavaScript · Java |
-| Web | Next.js · React · Node.js · HTML · CSS · TailwindCSS |
-| Databases | PostgreSQL · MongoDB · Firebase · Supabase |
+| Languages | Python · JavaScript / TypeScript · Java · Go · Rust |
+| Frameworks | TanStack Start · Next.js · React · React Native / Expo · Node.js · TailwindCSS |
+| Databases | PostgreSQL · MongoDB · Firebase · Supabase (same same, but different) |
 | Design / Video | DaVinci Resolve · Adobe Suite · Affinity Suite |
 
 ---
