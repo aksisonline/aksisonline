@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/surface.svg?title=Abhiram+Kanna&subtitle=Founding+Software+Engineer+%40+Edirq&logo=github&theme=zinc&mode=dark" />
-    <img alt="Abhiram Kanna" src="https://shieldcn.dev/header/surface.svg?title=Abhiram+Kanna&subtitle=Founding+Software+Engineer+%40+Edirq&logo=github&theme=zinc&mode=light" />
+    <img alt="Abhiram Kanna" src="https://shieldcn.dev/header/surface.svg?title=Abhiram+Kanna&subtitle=Ex-Founding+Software+Engineer+%40+Edirq&logo=github&theme=zinc&mode=light" />
   </picture>
 </p>
 
