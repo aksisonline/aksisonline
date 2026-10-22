@@ -57,7 +57,7 @@ No more committing with the wrong account. Work with multiple GitHub accounts at
 <table align="center">
   <tr>
     <td>
-      <a href="https://gitswitch.dev"><img alt="gitswitch — git identity manager, done right" src="https://gitswitch.dev/og-image" width="600" /></a>
+      <a href="https://gitswitch.dev"><img alt="gitswitch — git identity manager, done right" src="https://gitswitch.dev/og-image.png" width="600" /></a>
     </td>
   </tr>
 </table>
